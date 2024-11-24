@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\webApi\\HomeWork\\Lesson2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F12B77DF-F0A1-435F-8184-DE419911FFA6}|Lesson2\\Lesson2.csproj|d:\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\webapi\\homework\\lesson2\\lesson2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F12B77DF-F0A1-435F-8184-DE419911FFA6}|Lesson2\\Lesson2.csproj|solutionrelative:lesson2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F12B77DF-F0A1-435F-8184-DE419911FFA6}|Lesson2\\Lesson2.csproj|d:\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\webapi\\homework\\lesson2\\lesson2\\tasks.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F12B77DF-F0A1-435F-8184-DE419911FFA6}|Lesson2\\Lesson2.csproj|solutionrelative:lesson2\\tasks.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F12B77DF-F0A1-435F-8184-DE419911FFA6}|Lesson2\\Lesson2.csproj|d:\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\webapi\\homework\\lesson2\\lesson2\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F12B77DF-F0A1-435F-8184-DE419911FFA6}|Lesson2\\Lesson2.csproj|solutionrelative:lesson2\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F12B77DF-F0A1-435F-8184-DE419911FFA6}|Lesson2\\Lesson2.csproj|d:\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\webapi\\homework\\lesson2\\lesson2\\services\\tasksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F12B77DF-F0A1-435F-8184-DE419911FFA6}|Lesson2\\Lesson2.csproj|solutionrelative:lesson2\\services\\tasksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F12B77DF-F0A1-435F-8184-DE419911FFA6}|Lesson2\\Lesson2.csproj|d:\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\webapi\\homework\\lesson2\\lesson2\\model\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F12B77DF-F0A1-435F-8184-DE419911FFA6}|Lesson2\\Lesson2.csproj|solutionrelative:lesson2\\model\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F12B77DF-F0A1-435F-8184-DE419911FFA6}|Lesson2\\Lesson2.csproj|d:\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\webapi\\homework\\lesson2\\lesson2\\repositories\\tasksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F12B77DF-F0A1-435F-8184-DE419911FFA6}|Lesson2\\Lesson2.csproj|solutionrelative:lesson2\\repositories\\tasksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F12B77DF-F0A1-435F-8184-DE419911FFA6}|Lesson2\\Lesson2.csproj|d:\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\webapi\\homework\\lesson2\\lesson2\\services\\itasksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F12B77DF-F0A1-435F-8184-DE419911FFA6}|Lesson2\\Lesson2.csproj|solutionrelative:lesson2\\services\\itasksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F12B77DF-F0A1-435F-8184-DE419911FFA6}|Lesson2\\Lesson2.csproj|d:\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\webapi\\homework\\lesson2\\lesson2\\repositories\\itasksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F12B77DF-F0A1-435F-8184-DE419911FFA6}|Lesson2\\Lesson2.csproj|solutionrelative:lesson2\\repositories\\itasksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F12B77DF-F0A1-435F-8184-DE419911FFA6}|Lesson2\\Lesson2.csproj|d:\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\webapi\\homework\\lesson2\\lesson2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F12B77DF-F0A1-435F-8184-DE419911FFA6}|Lesson2\\Lesson2.csproj|solutionrelative:lesson2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "D:\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\webApi\\HomeWork\\Lesson2\\Lesson2\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "Lesson2\\Controllers\\TaskController.cs",
+              "ToolTip": "D:\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\webApi\\HomeWork\\Lesson2\\Lesson2\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "Lesson2\\Controllers\\TaskController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T13:28:06.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\webApi\\HomeWork\\Lesson2\\Lesson2\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson2\\Program.cs",
+              "ToolTip": "D:\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\webApi\\HomeWork\\Lesson2\\Lesson2\\Program.cs",
+              "RelativeToolTip": "Lesson2\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T19:50:58.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tasks.json",
+              "DocumentMoniker": "D:\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\webApi\\HomeWork\\Lesson2\\Lesson2\\Tasks.json",
+              "RelativeDocumentMoniker": "Lesson2\\Tasks.json",
+              "ToolTip": "D:\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\webApi\\HomeWork\\Lesson2\\Lesson2\\Tasks.json",
+              "RelativeToolTip": "Lesson2\\Tasks.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-22T18:04:55.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TasksService.cs",
+              "DocumentMoniker": "D:\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\webApi\\HomeWork\\Lesson2\\Lesson2\\Services\\TasksService.cs",
+              "RelativeDocumentMoniker": "Lesson2\\Services\\TasksService.cs",
+              "ToolTip": "D:\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\webApi\\HomeWork\\Lesson2\\Lesson2\\Services\\TasksService.cs",
+              "RelativeToolTip": "Lesson2\\Services\\TasksService.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwDkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T13:11:26.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ITasksService.cs",
+              "DocumentMoniker": "D:\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\webApi\\HomeWork\\Lesson2\\Lesson2\\Services\\ITasksService.cs",
+              "RelativeDocumentMoniker": "Lesson2\\Services\\ITasksService.cs",
+              "ToolTip": "D:\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\webApi\\HomeWork\\Lesson2\\Lesson2\\Services\\ITasksService.cs",
+              "RelativeToolTip": "Lesson2\\Services\\ITasksService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA2wAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T13:33:43.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ITasksRepository.cs",
+              "DocumentMoniker": "D:\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\webApi\\HomeWork\\Lesson2\\Lesson2\\Repositories\\ITasksRepository.cs",
+              "RelativeDocumentMoniker": "Lesson2\\Repositories\\ITasksRepository.cs",
+              "ToolTip": "D:\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\webApi\\HomeWork\\Lesson2\\Lesson2\\Repositories\\ITasksRepository.cs",
+              "RelativeToolTip": "Lesson2\\Repositories\\ITasksRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T12:50:34.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tasks.cs",
+              "DocumentMoniker": "D:\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\webApi\\HomeWork\\Lesson2\\Lesson2\\Model\\Tasks.cs",
+              "RelativeDocumentMoniker": "Lesson2\\Model\\Tasks.cs",
+              "ToolTip": "D:\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\webApi\\HomeWork\\Lesson2\\Lesson2\\Model\\Tasks.cs",
+              "RelativeToolTip": "Lesson2\\Model\\Tasks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T19:28:58.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TasksRepository.cs",
+              "DocumentMoniker": "D:\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\webApi\\HomeWork\\Lesson2\\Lesson2\\Repositories\\TasksRepository.cs",
+              "RelativeDocumentMoniker": "Lesson2\\Repositories\\TasksRepository.cs",
+              "ToolTip": "D:\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\webApi\\HomeWork\\Lesson2\\Lesson2\\Repositories\\TasksRepository.cs",
+              "RelativeToolTip": "Lesson2\\Repositories\\TasksRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T12:52:02.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\webApi\\HomeWork\\Lesson2\\Lesson2\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Lesson2\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\webApi\\HomeWork\\Lesson2\\Lesson2\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Lesson2\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-17T20:11:05.864Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
