@@ -1,3 +1,0 @@
-ALTER TABLE Tasks
-ADD CONSTRAINT FK_Tasks_Projects
-FOREIGN KEY (ProjectId) REFERENCES Projects(Id);
