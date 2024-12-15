@@ -28,8 +28,7 @@ namespace ex2.Controlers
             catch (Exception ex)
             {
                 return BadRequest(ex.Message);
-            }
-            
+            }      
         }
         [HttpPost("addByUser")]
         public IActionResult addByUser([FromBody] Tasks task)
